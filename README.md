@@ -74,7 +74,7 @@ In addition, it is good to have an editor to work with the code like [VSCode](ht
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:yagoinacio/readme-model.git
 
 # Access the project folder cmd/terminal
 $ cd project
