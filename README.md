@@ -43,7 +43,7 @@ Occaecat tempor commodo aliquip id in eu. Deserunt labore irure velit magna ipsu
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
 
-## ⚙️ Features
+## ✨ Features
 
 - [x] Feature 1:
   - [x] Sub feature 1.1
