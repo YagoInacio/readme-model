@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yagoinacio/job-board-server?color=353949">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yagoinacio/readme-model?color=353949">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yagoinacio/job-board-server">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yagoinacio/readme-model">
 
-  <a href="https://github.com/yagoinacio/job-board-server/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yagoinacio/job-board-server">
+  <a href="https://github.com/yagoinacio/readme-model/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yagoinacio/readme-model">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -26,7 +26,7 @@
  <a href="#-how-it-works">How it works</a> • 
  <!-- <a href="#-contributors">Contributors</a> •  -->
  <a href="#-author">Author</a> • 
- <a href="#user-content--license">License</a>
+ <a href="#-license">License</a>
 </p>
 
 ## 💻 Project Title
